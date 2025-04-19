@@ -1,10 +1,10 @@
-const CACHE_NAME = 'raining game-v1';
+const CACHE_NAME = 'raining-game-v1';
 const urlsToCache = [
     '/first_program/',
     '/first_program/index.html',
     '/first_program/manifest.json',
-    'https://i.ibb.co/j9VZdRcc/maskable-icon-x192.png'
-    'https://i.ibb.co/j9VZdRcc/maskable-icon-x192.png'
+    'https://i.ibb.co/j9VZdRcc/maskable-icon-x192.png',
+    'https://i.ibb.co/YFCGbNgv/maskable-icon-x512.png'
 ];
 
 self.addEventListener('install', event => {
