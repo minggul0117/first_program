@@ -4,6 +4,7 @@ const urlsToCache = [
     '/first_program/index.html',
     '/first_program/manifest.json',
     'https://i.ibb.co/j9VZdRcc/maskable-icon-x192.png'
+    'https://i.ibb.co/j9VZdRcc/maskable-icon-x192.png'
 ];
 
 self.addEventListener('install', event => {
